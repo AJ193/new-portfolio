@@ -54,7 +54,7 @@ A mobile view portfolio showing only the header and headline section. The headli
 - **Mobile Menu**
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-- [Live Demo Link](https://aj193.github.io/Portfolio-A/)
+- [Live Demo Link](https://aj193.github.io/new-portfolio/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -65,7 +65,7 @@ To get a local copy up and running, follow these steps.
 Clone this repository to your desired folder:
 
     cd my-folder
-    git clone git@github.com/AJ193/Portfolio.git
+    git clone git@github.com/AJ193/new-portfolio.git
 
 ### 👥 Authors <a name="authors"></a>
 
